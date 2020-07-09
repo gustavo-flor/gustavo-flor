@@ -1,7 +1,7 @@
 ### Salve família 👋
 
 - 🔭 Atualmente trabalho na ProJuris;
-- 😄 Curto jogar uns jogos pra me distrair e praticar esportes;
+- 😄 Curto jogar uns jogos e praticar esportes pra me distrair;
 - 🌱 Estudando sempre novas tecnologias;
 - 🤔 Ainda sem muita ideia de qual caminho seguir;
 - 📫 Estou em todo canto: twitter, instagram, em casa...;
