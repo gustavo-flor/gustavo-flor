@@ -1,7 +1,12 @@
-### Salve família 👋
+<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-- 🔭 Atualmente trabalho na ProJuris;
-- 😄 Curto jogar uns jogos e praticar esportes pra me distrair;
-- 🌱 Estudando sempre novas tecnologias;
+```diff
+Olá, eu sou Gustavo 💻.
 
-[Me segue no Twitter :P](https://twitter.com/gustavoflor_)
+@@Sou um desenvolvedor de software na ProJuris@@
++ Vivendo em Joinville, Brasil 🇧🇷.
+- 19 anos
+! Estudante, atleta e memeiro
+# 📖 Entusiasta do mundo web, grande fã do cbjr
+```
