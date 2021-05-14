@@ -7,6 +7,6 @@ Olá, eu sou Gustavo 💻.
 @@Sou um desenvolvedor de software na ProJuris@@
 + Vivendo em Joinville, Brasil 🇧🇷.
 - 19 anos
-! Estudante, atleta e memeiro
+! Estudante, atleta e mais muita coisa
 # 📖 Entusiasta do mundo web, grande fã do cbjr
 ```
