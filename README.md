@@ -4,9 +4,9 @@
 ```diff
 Olá, eu sou Gustavo 💻.
 
-@@Sou um desenvolvedor de software na ProJuris@@
+@@Sou um desenvolvedor de software no PicPay@@
 + Vivendo em Joinville, Brasil 🇧🇷.
 - 19 anos
 ! Estudante, atleta e mais muita coisa
-# 📖 Entusiasta do mundo web, grande fã do cbjr
+# 📖 Força pra lutar, fé para vencer
 ```
