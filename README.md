@@ -4,7 +4,7 @@
 ```diff
 Olá, eu sou Gustavo 💻.
 
-@@Sou um desenvolvedor de software no PicPay@@
+@@Sou engenheiro de software no PicPay@@
 + Vivendo em Joinville, Brasil 🇧🇷.
 - 19 anos
 ! Estudante, atleta e mais muita coisa
