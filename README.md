@@ -8,8 +8,7 @@ Hello, welcome to my Github, you can call me as Flôr 💻.
 
 + I live in Joinville 🇧🇷
 - I'm 20 years old
-
-! Live your truth and let's change the world
+! Studying Java, NodeJS and React Stack
 ```
 
 <br>
@@ -38,3 +37,6 @@ On this place you'll found some of my personal ~unfinished~ projects, I like to 
 9. My friends call my as "Canela" is the same as "lower leg", but in Brazil "Canela" should be "cinnamon" too (and that's funny in some cases)
 10. I like to record some videos to YouTube ~and I need to do it more~ 
 11. PLUSSSSS: I love nonsense socks and love shuffle then, so if you come to my home you'll see I'll be using a pink eggs sock in one foot and a yellow cactus sock on another
+
+> Live your truth
+
