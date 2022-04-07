@@ -32,7 +32,7 @@ On this place you'll found some of my personal ~unfinished~ projects, I like to 
 3. I love games, nowadays I'm playing Valorant (but this doesn't that I'm not a noobie)
 4. I'm studying a second language (English), so my bad if I wrote something wrong hehe
 5. My girlfriend broke my finger on our first date
-6. I'm starting play a RPG game with a friend called "Ordem Paranormal"?
+6. I'm starting play a RPG game called "Ordem Paranormal" with a friend
 7. PIZZA IS LIFE
 8. I've tattooed in my lower leg a cat with 3 eyes
 9. My friends call my as "Canela" is the same as "lower leg", but in Brazil "Canela" should be "cinnamon" too (and that's funny in some cases)
