@@ -24,19 +24,19 @@ On this place you'll found some of my personal ~unfinished~ projects, I like to 
 
 ---
 
-### 10 nonsense (or not) infos about me:
+### 10 nonsense (or not) facts about me:
 
 1. I'm reading now: Clean Code
 2. I used to play basketball for my hometown city (Joinville)
-3. I love games, nowadays I'm playing Valorant (but this doesn't that I'm not a noobie)
+3. I love games, nowadays I'm playing Valorant (but this doesn't mean I'm not a noobie)
 4. I'm studying a second language (English), so my bad if I wrote something wrong hehe
 5. My girlfriend broke my finger on our first date
 6. I'm starting play a RPG game called "Ordem Paranormal" with a friend
 7. PIZZA IS LIFE
-8. I've tattooed in my lower leg a cat with 3 eyes
+8. I've tattooed a cat with 3 eyes in my shin
 9. My friends call my as "Canela" is the same as "lower leg", but in Brazil "Canela" should be "cinnamon" too (and that's funny in some cases)
 10. I like to record some videos to YouTube ~and I need to do it more~ 
-11. PLUSSSSS: I love nonsense socks and love shuffle then, so if you come to my home you'll see I'll be using a pink eggs sock in one foot and a yellow cactus sock on another
+11. PLUSSSSS: I love nonsense socks and love shuffle then, so if you come to my home I'll be using a pink eggs sock in one foot and a yellow cactus sock on another
 
 > Live your truth
 
