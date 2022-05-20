@@ -1,6 +1,3 @@
-<img align="right" height="180" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
-<img align="left" height="180" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-
 ```diff
 Hello, welcome to my Github, you can call me as Flôr 💻.
 
