@@ -5,7 +5,7 @@ Hello, welcome to my Github, you can call me as Flôr 💻.
 
 + I live in Joinville 🇧🇷
 - I'm 21 years old
-! Studying Java, NodeJS and React Stack
+! Studying Java, Kafka and React Stack
 ```
 
 <br>
@@ -18,13 +18,3 @@ On this place you'll found some of my personal ~unfinished~ projects, I like to 
 # Need a Software Engineer? [**Talk with me**](https://www.linkedin.com/in/gustavoflor/)
 
 ![My study environment and me](welcome.png)
-
----
-
-### Facts about me:
-
-1. I'm reading now: Clean Code
-2. I used to play basketball for my hometown city (Joinville)
-3. I'm starting play a RPG game called "Ordem Paranormal" with a friend
-
-That's all folks
