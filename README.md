@@ -1,11 +1,11 @@
 ```diff
 Hello, welcome to my Github, you can call me as Flôr 💻.
 
-@@I'm a software engineer@@
+@@I'm a developer@@
 
 + I live in Joinville
 - I'm 22 years old
-! Studying Java, Kafka and React Stack
+! Stop dreaming start living
 ```
 
 <br>
